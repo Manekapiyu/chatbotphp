@@ -1,8 +1,8 @@
-# Chatbot
+# Chatbot:
 
 Cloud-based Student Information Chatbot system.
 
-## Overview
+## Overview:
 
 This project is a **web application chatbot** that helps students query and receive answers about college-related activities. It uses **artificial intelligence algorithms** to understand and respond to user messages in natural language.  
 
@@ -10,7 +10,7 @@ Students can ask questions in any format; the system interprets the query and pr
 
 ---
 
-## Features
+## Features:
 
 - **AI-powered responses:** Understands and answers student queries automatically.  
 - **Admin portal:** Admin can view invalid answers, delete them, or provide correct responses.  
@@ -20,7 +20,7 @@ Students can ask questions in any format; the system interprets the query and pr
 
 ---
 
-## Functionality
+## Functionality:
 
 1. Students interact with the chatbot to ask questions.  
 2. Chatbot analyzes the input and provides relevant answers.  
@@ -31,7 +31,7 @@ Students can ask questions in any format; the system interprets the query and pr
 
 ---
 
-## Deployment
+## Deployment:
 
 To make it **cloud-based**, deploy your web application integrated with AI on a cloud platform such as **AWS, GCP, or Heroku**.
 
